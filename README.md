@@ -22,6 +22,6 @@ I Am Satyaveer Singh
          <img src="https://github-readme-stats.vercel.app/api?username=ssyadav&show_icons=true" />
       </a>
       <a href="https://github.com/ssyadav/github-readme-stats">
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssyadav&layout=compact&langs_count=8&card_width=420" />
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssyadav&layout=compact&langs_count=8&card_width=447" />
       </a>
 </div>

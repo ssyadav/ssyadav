@@ -31,10 +31,8 @@ I Am Satyaveer Singh
 <h2>📫 Let's connect ... </h2>
 
 <p>
-<a href="https://www.linkedin.com/in/satyaveer-s-9b664a23/">
-      <img src="https://img.shields.io/badge/-satyaveer-s-blue?logo=Linkedin&amp;logoColor=white&amp;link=[https:https://www.linkedin.com/in/satyaveer-s-9b664a23/](https://www.linkedin.com/in/satyaveer-s-9b664a23/)" alt="Linkedin Badge" height="25">
+<a href="https://www.linkedin.com/in/satyaveer-s-9b664a23/"><img src="https://img.shields.io/badge/Satyaveer_S-blue?logo=Linkedin&amp;logoColor=white&amp;link=https:https://www.linkedin.com/in/satyaveer-s-9b664a23/" alt="Linkedin Badge" height="25"></a>  
 
-</a>  
 
 <a href="mailto:ssyadav.in@gmail.com">
       <img src="https://img.shields.io/badge/-ssyadav.in@gmail.com-c14438?logo=Gmail&amp;logoColor=white&amp;link=mailto:ssyadav.in@gmail.com" alt="Gmail Badge" height="25">
